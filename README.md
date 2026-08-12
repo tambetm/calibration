@@ -17,6 +17,7 @@ No build step, no server, no dependencies. `index.html` is self-contained.
 | --- | --- |
 | `index.html` | The tool. Open it locally or use the hosted link above. |
 | `calibration-notions.json` | The database on its own, so it can be extended or imported without touching the app. |
+| [`research-brief.md`](research-brief.md) | The original research brief: what the literature looks like, the findings that drove the design, and the gaps. |
 
 67 entries: 26 notions, 18 metrics/estimators, 21 methods, and 2 close neighbours that keep getting
 confused with calibration. Settings covered: binary, multiclass, regression, forecasting, LLM,
